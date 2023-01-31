@@ -1,7 +1,7 @@
 '''
 This is my messy calculator code :)
 All written by me
-Does 4 basic operations and supports decimals
+Does 5 basic operations and supports decimals
 Has 2 different calculator styles
 '''
 
