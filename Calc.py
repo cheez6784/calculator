@@ -1,6 +1,5 @@
 '''
-This is my messy calculator code :)
-All written by me
+Calc is short for calculator btw
 Does 5 basic operations and supports decimals
 Has 2 different calculator styles
 '''
